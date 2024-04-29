@@ -1,7 +1,7 @@
 {
-  "name": "JinyuEGLNode",
-  "website": "www.notyet.com",
-  "description": "This is a operator node for EigenLayer testnet",
-  "logo": "NONE",
+  "name": "JINYU_EIGEN_OP",
+  "website": "https://app.eigenlayer.xyz/",
+  "description": "Testnet operator for all",
+  "logo": "https://d391b93f5f62d9c15f67142e43841acc.ipfscdn.io/ipfs/bafybeialsw5tp7xjov45ixgrbej7fq4v3u7wtvvwemzo7tn46t3mwjfrfq/igris_sl_2.png",
   "twitter": "NONE"
 }
